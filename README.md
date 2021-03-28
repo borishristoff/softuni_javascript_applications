@@ -1,0 +1,1 @@
+# softuni_javascript_applications
